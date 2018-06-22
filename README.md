@@ -1,6 +1,6 @@
 # GarfDown
-A simple comic strip downloader for a certain orange colored canine
-Usage is pretty simple, just enter the date, month, and year to start the downloads from, and it will download every comic strip from that date to present.
+A simple comic strip downloader for a certain orange colored feline<br>
+Usage is pretty simple, just enter the date, month, and year to start the downloads from, and it will download every comic strip from that date to present.<br>
 
 ./gar.sh [date] [month] [year]
 
